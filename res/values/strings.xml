@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lector de JSON</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- List_Item Strings -->
+    <string name="list_item_Titulo">Titulo</string>
+    <string name="list_item_Categoria">Categoria</string>
+    <string name="list_item_Descripcion">Descripcion</string>
+</resources>
